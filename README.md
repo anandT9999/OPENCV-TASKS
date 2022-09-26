@@ -1,2 +1,3 @@
-# OPENCV-TASKS
-Simple tasks regarding open cv 
+OPENCV
+
+Image Augmentation , Color Variation , Flipping , Rotation , Cropping and Resizing
