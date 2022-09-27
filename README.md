@@ -9,14 +9,7 @@ This a repository for task 4r OpenCV
  
 ## Color Detection
 
- *Input Image
- 
-flower
-
-lambo
-
- * lambo car particular colour has been extracted
- * Flower color has been extracted
+ * Detection of colors in saved images
  
 ## Flipping
 
