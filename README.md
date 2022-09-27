@@ -5,7 +5,7 @@ This a repository for task 4r OpenCV
 
 ## Image Augmentation
 
- * Applied Saturation,Hue,Brightness,Contrast and stored output to one folder
+ * Applied Saturation, Hue, Brightness, Contrast and stored all the outputs to one file
  
 ## Color Detection
 
