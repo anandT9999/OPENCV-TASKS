@@ -1,3 +1,5 @@
+#Cropping and Resizing the image 
+
 import cv2
 import numpy as np
 
